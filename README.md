@@ -1,8 +1,9 @@
 # Shit I remake Sound Space Script
 
-After you executed the script loadstring thing then
-Executed this script
-      vvvv
+--After you executed the script loadstring thing then.
+
+--Executed this script.
+
 _G.toggle = "f"
 
 _G.reaction_time = 100 -- how fast it aims to the next block
