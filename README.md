@@ -13,3 +13,6 @@ _G.sensitivity = 15 -- sensitivity of the aimbot, 9-10 is recommended unless you
 _G.smoothness = 0.01 -- smoothness of the movement, lower is snappier but faster. If you wanna be a god just set it to 0.04 or lower
 
 _G.movement = Enum.EasingStyle.Linear -- type of aimbot movement, just use linear
+
+
+All credit : https://v3rmillion.net/member.php?action=profile&uid=785986
